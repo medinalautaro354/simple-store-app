@@ -1,0 +1,12 @@
+.search-engine {
+    background-color: transparent;
+    padding: 0;
+}
+
+.search-engine input[type="text"] {
+    height: 3rem;
+    font-size: 1.4rem;
+    padding: 1rem;
+    width: 100%;
+    margin: 0;
+}
